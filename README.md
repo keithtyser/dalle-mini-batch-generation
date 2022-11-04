@@ -1,8 +1,8 @@
 # Prompt Generation for Text-to-Image Models Using Deep Reinforcement Learning
 
 ## Team Members
-Teona Bagashvili </ br>
-Keith Tyser </ br>
+Teona Bagashvili <br />
+Keith Tyser <br />
 Zihan Li
 
 ## Code
